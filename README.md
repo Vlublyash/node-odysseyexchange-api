@@ -1,6 +1,13 @@
 # node-odysseyexchange-api
 node library Odyssey Exchange API
 
+
+# plan
+▫️ - openapi release
+◾️ - apikey release
+
+
+
 # install
 ```
 npm i node-odysseyexchange-api
