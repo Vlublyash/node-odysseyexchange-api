@@ -2,9 +2,10 @@
 node library Odyssey Exchange API
 
 
-# plan
-▫️ - openapi release
-◾️ - apikey release
+# plan‼️
+✅ - openapi release
+
+☑️ - apikey release
 
 
 
