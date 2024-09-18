@@ -28,7 +28,7 @@ response:
 
 # Feedback
 <div align="center">
-    
-[![Telegram chat](https://img.shields.io/endpoint?color=neon&label=Support%20Chat&style=flat-square&style=flat-square&url=https://Ftg.sumanjay.workers.dev/libfordev)](https://t.me/libfordev)
+
+[![Telegram chat](https://img.shields.io/endpoint?label=Chat&style=flat-square&url=https://tg.sumanjay.workers.dev/libfordev&color=blue)](https://telegram.dog/libfordev)
 
 </div>
