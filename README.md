@@ -27,4 +27,4 @@ response:
 ```
 <h3>feedback</h3>
 
-[<img src="https://i.ibb.co/xfsM4B2/telegram-2.png">]<a href="t.me/libfordev">*open chat*</a>
+<img src="https://i.ibb.co/xfsM4B2/telegram-2.png" width="16px"><a href="https://t.me/libfordev">*open chat*</a>
