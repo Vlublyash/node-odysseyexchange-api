@@ -25,9 +25,6 @@ response:
 ```json
 {}
 ```
-<div align="center">
-  <div style=" text-align: center; margin-top: 24px; line-height: 0;">
-    <h2>feedback</h2>
-    <a style="background: #64b5ef" href="t.me/libfordev">open telegram chat</a>
-  </div>
-</div>
+<h2>feedback</h2>
+
+[<img src="https://i.ibb.co/xfsM4B2/telegram-2.png">](t.me/libfordev)<a href="t.me/libfordev"><h3>open chat</h3></a>
