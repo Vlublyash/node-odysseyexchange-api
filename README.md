@@ -14,10 +14,7 @@ node library Odyssey Exchange API
 npm i node-odysseyexchange-api
 ```
 
-# quickstart
-code:
-```js
-const OdyEx = require('node-odysseyexchange-api');
+# quickstart<ire('node-odysseyexchange-api');
 let ans = OdyEx.getTicket(symbol);
 console.log(ans);
 ```
@@ -25,9 +22,9 @@ response:
 ```json
 {}
 ```
-
-# Feedback
+*Feedb<ck*
 <div align="center">
+  <h2>feedback</h2>
   <div>
     <a href="t.me/libfordev">open telegram chat</a>
   </div>
