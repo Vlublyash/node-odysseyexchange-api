@@ -31,7 +31,7 @@ account();
 ```
 
 account:
-```json
+```
 {
   balances: [
     { asset: 'GRIMACE', free: '0.0000004900', locked: '0.0000000000' },
