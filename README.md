@@ -2,8 +2,9 @@
 node library Odyssey Exchange API
 
 
-# plan‼️
+## plan
 ✅ spot api
+
 ☑️ futures api
 
 
@@ -29,17 +30,17 @@ console.log(odyssey.ping()); // ping on exchange
 account();
 ```
 
-response:
+account:
 ```json
 {
   balances: [
     { asset: 'GRIMACE', free: '0.0000004900', locked: '0.0000000000' },
     { asset: 'USDT', free: '0.000000', locked: '0.0000000000' },
     { asset: 'BTC', free: '0.0000100000', locked: '0.0000000000' }
-    // other ...
   ]
 }
 ```
+
 <h3>feedback</h3>
 
 <img src="https://i.ibb.co/xfsM4B2/telegram-2.png" width="16px"><a href="https://t.me/libfordev">*open chat*</a>
