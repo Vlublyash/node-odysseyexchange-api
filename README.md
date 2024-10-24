@@ -3,9 +3,8 @@ node library Odyssey Exchange API
 
 
 # plan‼️
-✅ - openapi release
-
-☑️ - apikey release
+✅ spot api
+☑️ futures api
 
 
 
@@ -16,9 +15,13 @@ npm i node-odysseyexchange-api
 
 # quickstart
 ```js
-const OdyEx = require('node-odysseyexchange-api');
-let ans = OdyEx.getTicket(symbol);
-console.log(ans);
+const odyssey = require('node-odysseyexchange-api');
+let apikey = 'you-api-key';
+let secret = 'you-secret-key';
+let odyex = odyssey(apikey, secret);
+//skit
+const acc = await odyex.getAccount();
+console.log(acc);
 ```
 
 response:
