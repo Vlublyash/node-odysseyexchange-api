@@ -1,12 +1,16 @@
 {
   "name": "odysseyexchange-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Vlublyash/node-odysseyexchange-api.git"
+  },
   "keywords": ["api","crypto","exchange","odyssey","spot"],
   "author": "t.me/Vlublyash",
-  "license": "ISC",
+  "license": "MIT",
   "description": "node library on api from Odyssey Exchange (odyssey.trade)"
 }
