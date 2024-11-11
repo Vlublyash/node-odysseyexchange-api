@@ -1,0 +1,12 @@
+{
+  "name": "odysseyexchange-api",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api","crypto","exchange","odyssey","spot"],
+  "author": "t.me/Vlublyash",
+  "license": "ISC",
+  "description": "node library on api from Odyssey Exchange (odyssey.trade)"
+}
